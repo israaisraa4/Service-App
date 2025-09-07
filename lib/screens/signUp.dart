@@ -11,6 +11,7 @@ class SignUp extends StatelessWidget {
   String? current_pass = "";
   String? emailUser = "";
 
+
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
   @override
